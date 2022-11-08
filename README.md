@@ -1,2 +1,1 @@
-# API-final-project
-This project provides the users with the various news presented in well-known website in one page.
+This project provides you different news over the world in one page.
