@@ -22,4 +22,4 @@ export const APPLE_NEWS_ID =
   'q=Apple&' +
   'from=2022-11-06&' +
   'sortBy=popularity&' +
-  'apiKey=1b38f045434b47bf8882cd8fcba95788';
+  'apiKey=99cbe1cff8364c3a81096ed76ac849b8';
