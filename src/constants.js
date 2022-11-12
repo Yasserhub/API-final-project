@@ -15,7 +15,7 @@ export const WALL_STREET_ID =
 export const TECH_CRUNCH_ID =
   'https://newsapi.org/v2/top-headlines?' +
   'sources=techcrunch&' +
-  'apiKey=1b38f045434b47bf8882cd8fcba95788';
+  'apiKey=99cbe1cff8364c3a81096ed76ac849b8';
 
 export const APPLE_NEWS_ID =
   'https://newsapi.org/v2/everything?' +
